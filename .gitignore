@@ -54,4 +54,4 @@ docs/_build/
 # Sublime Text files
 *.sublime-*
 
-taskbuster_project/db.sqlite3
+taskbuster_project/taskbuster/db.sqlite3
